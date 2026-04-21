@@ -27,6 +27,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
+  <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Three papers are accepted to ACL'26, IJCNN'26 and ICMR'26.</b></li>
   <li><strong style="font-family: Consolas;">[02/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> "QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models." [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Code</a>/<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">MIR:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/FelixMessi/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
