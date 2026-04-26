@@ -135,7 +135,7 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
       [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
-      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
+      [<a href="https://github.com/MessiX77/QDLM">Github</a>]
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       [<a href="#" onclick="showBibQDLM()">bibtex</a>]
       <script>
@@ -168,9 +168,9 @@ author_profile: true
       <br>
       <i>Preprint.</i>
       <br>
-      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
       [<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">TechXriv</a>]
-      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Github</a>]
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/0k_i1YCVrbps3RAPJMMF_w">Synced/机器之心</a>]
       [<a href="#" onclick="showBibSurvey()">bibtex</a>]
       <script>

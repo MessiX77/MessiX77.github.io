@@ -29,11 +29,11 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Three papers are accepted to ACL'26, IJCNN'26 and ICMR'26.</b></li>
   <li><strong style="font-family: Consolas;">[02/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> "QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models." [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Code</a>/<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]</li>
-  <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
-  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">MIR:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/FelixMessi/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">MIR:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/MessiX77/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ResponsibleFM @ NeurIPS 2025:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the National Scholarship at UCAS! Grateful to my supervisors!</li>
-  <!-- <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/FelixMessi/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li> -->
+  <!-- <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/MessiX77/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li> -->
   <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://github.com/zyinan99/DOGR">Code</a>/<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
@@ -179,7 +179,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
       [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
-      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
+      [<a href="https://github.com/MessiX77/QDLM">Github</a>]
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
       [<a href="#" onclick="showBibQDLM()">bibtex</a>]
@@ -212,9 +212,9 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <i>Preprint.</i>
       <br>
-      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
       [<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">TechXriv</a>]
-      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Github</a>]
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/0k_i1YCVrbps3RAPJMMF_w">Synced/机器之心</a>]
       [<a href="#" onclick="showBibSurvey()">bibtex</a>]
       <script>
