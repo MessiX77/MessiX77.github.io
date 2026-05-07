@@ -27,7 +27,9 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
-  <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Three papers are accepted to ACL'26, IJCNN'26 and ICMR'26.</b></li>
+  <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation."</li>
+  <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Four papers are accepted to ACL'26, IJCNN'26, ICMR'26 and Neurocomputing.</b></li>
   <li><strong style="font-family: Consolas;">[02/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> "QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models." [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Code</a>/<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">MIR:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/MessiX77/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
@@ -241,6 +243,41 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       </a>
     </td> -->
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts.</b> 
+      <br>
+      Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^,
+      <br>
+      <i>in Forty-Third International Conference on Machine Learning  (<b>ICML 2026</b>).</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2510.13500">PDF</a>]
+      [<a href="https://arxiv.org/abs/2510.13500">arXiv</a>]
+      [<a href="https://github.com/mylittleriver/MedREK">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
+      [<a href="#" onclick="showBibMedRek()">bibtex</a>]
+      <script>
+        function showBibMedRek() {
+          const bib = `@article{xia2025medrek,\n
+  title={MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts},\n
+  author={Xia, Shujun and Lin, Haokun and Wu, Yichen and Zhou, Yinan and Li, Zixuan and Wan, Zhongwei and Xing, Xingrun and Zheng, Yefeng and Li, Xiang and Shan, Caifeng and others},\n
+  journal={arXiv preprint arXiv:2510.13500},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "medrek_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
+
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>Image-level Memorization Detection via Inversion-based Inference Perturbation.</b> 
       <br>
       Yue Jiang*, <u>Haokun Lin*</u>, Yang Bai, Bo Peng, Zhili Liu, Yueming Lyu, Yong Yang, Xing Zheng, Jing Dong,
@@ -432,41 +469,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }`;
           const newWindow = window.open("", "intactkv_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-  </tr>
-
-
-  <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/.png">
-      <img src='images/.png' width="300">
-      </a>
-    </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts.</b> 
-      <br>
-      Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^,
-      <br>
-      <i>in ResponsibleFM @ NeurIPS 2025.</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2510.13500">PDF</a>]
-      [<a href="https://arxiv.org/abs/2510.13500">arXiv</a>]
-      [<a href="https://github.com/mylittleriver/MedREK">Github</a>]
-      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
-      [<a href="#" onclick="showBibMedRek()">bibtex</a>]
-      <script>
-        function showBibMedRek() {
-          const bib = `@article{xia2025medrek,\n
-  title={MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts},\n
-  author={Xia, Shujun and Lin, Haokun and Wu, Yichen and Zhou, Yinan and Li, Zixuan and Wan, Zhongwei and Xing, Xingrun and Zheng, Yefeng and Li, Xiang and Shan, Caifeng and others},\n
-  journal={arXiv preprint arXiv:2510.13500},\n
-  year={2025}\n
-}`;
-          const newWindow = window.open("", "medrek_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
