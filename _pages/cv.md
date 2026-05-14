@@ -22,6 +22,7 @@ redirect_from:
 
 
 ## Honors and Awards
+- *2026.05*  ICML 2026 Silver Reviewer Award.
 - *2025.11*  National Scholarship, UCAS, Gradeduate Students.
 - *2025.06*  First prize, UCAS Excellent Graduate Scholarship.
 - *2024.12*  First Prize, 2024 Graduate Academic Forum, University of Chinese Academy of Sciences.
@@ -34,10 +35,11 @@ redirect_from:
 
 ## Services
 - Invited Reviewer:
-  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026.
+  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026, ECCV'2026.
   - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
   - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
   - IEEE Transactions on Multimedia (TMM).
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).

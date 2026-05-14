@@ -27,6 +27,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
+  <li><strong style="font-family: Consolas;">[05/2026]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as Silver Reviewer for ICML'26!</li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation."</li>
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Four papers are accepted to ACL'26, IJCNN'26, ICMR'26 and Neurocomputing.</b></li>
@@ -515,6 +516,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 
 # 🏆 Honors and Awards
+- *2026.05*  ICML 2026 Silver Reviewer Award.
 - *2025.11*  National Scholarship, UCAS, Gradeduate Students.
 - *2025.06*  First prize, UCAS Excellent Graduate Scholarship.
 - *2024.12*  First Prize, 2024 Graduate Academic Forum, University of Chinese Academy of Sciences.
@@ -527,10 +529,11 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 # 🎖 Services
 - Invited Reviewer:
-  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026.
+  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026, ECCV'2026.
   - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
   - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
   - IEEE Transactions on Multimedia (TMM).
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
