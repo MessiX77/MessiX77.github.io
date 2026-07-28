@@ -27,6 +27,9 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
+  <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TokLIP is accepted to IJCV.</b> [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TCSVT:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[06/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Two papers are accepted to ECCV'26</b></li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as Silver Reviewer for ICML'26!</li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation."</li>
@@ -37,7 +40,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ResponsibleFM @ NeurIPS 2025:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the National Scholarship at UCAS! Grateful to my supervisors!</li>
   <!-- <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/MessiX77/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li> -->
-  <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
+  <!-- <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li> -->
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://github.com/zyinan99/DOGR">Code</a>/<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
@@ -61,6 +64,43 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ))
 (\*: co-first author;  ^: corresponding author;   #: Project Lead)
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.</b> 
+      <br>
+      <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
+      <br>
+      <i>in International Journal of Computer Vision (<b>IJCV</b>).</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
+      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
+      [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>] 
+      [<a href="#" onclick="showBibTok()">bibtex</a>]
+      <script>
+        function showBibTok() {
+          const bib = `@article{lin2025toklip,\n
+  title={Toklip: Marry visual tokens to clip for multimodal comprehension and generation},\n
+  author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
+  journal={arXiv preprint arXiv:2505.05422},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "toklip_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
+
+
   <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <a href="images/.png">
@@ -125,41 +165,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }`;
           const newWindow = window.open("", "mope_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/.png">
-      <img src='images/.png' width="300">
-      </a>
-    </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.</b> 
-      <br>
-      <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
-      <br>
-      <i>Preprint.</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
-      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
-      [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
-      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
-      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
-      [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>] 
-      [<a href="#" onclick="showBibTok()">bibtex</a>]
-      <script>
-        function showBibTok() {
-          const bib = `@article{lin2025toklip,\n
-  title={Toklip: Marry visual tokens to clip for multimodal comprehension and generation},\n
-  author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
-  journal={arXiv preprint arXiv:2505.05422},\n
-  year={2025}\n
-}`;
-          const newWindow = window.open("", "toklip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -297,6 +302,41 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2025}\n
 }`;
           const newWindow = window.open("", "iip_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
+
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b> 
+      <br>
+      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
+      <br>
+      <i>in IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>).</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
+      [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
+      [<a href="#" onclick="showBibLrq()">bibtex</a>]
+      <script>
+        function showBibLrq() {
+          const bib = `@article{yang2025lrq,\n
+  title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
+  author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
+  journal={arXiv preprint arXiv:2508.03485},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -470,41 +510,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }`;
           const newWindow = window.open("", "intactkv_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-  </tr>
-
-
-  <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/.png">
-      <img src='images/.png' width="300">
-      </a>
-    </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b> 
-      <br>
-      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
-      <br>
-      <i>Preprint.</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
-      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
-      [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>]
-      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
-      [<a href="#" onclick="showBibLrq()">bibtex</a>]
-      <script>
-        function showBibLrq() {
-          const bib = `@article{yang2025lrq,\n
-  title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
-  author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
-  journal={arXiv preprint arXiv:2508.03485},\n
-  year={2025}\n
-}`;
-          const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
