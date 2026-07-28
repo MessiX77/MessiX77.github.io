@@ -26,7 +26,8 @@ author_profile: true
       <br>
       <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
       <br>
-      <i>in International Journal of Computer Vision (<b>IJCV</b>).</i>
+      <i>Preprint.</i>
+      <!-- <i>in International Journal of Computer Vision (<b>IJCV</b>).</i> -->
       <br>
       [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]

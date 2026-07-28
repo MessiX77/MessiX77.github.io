@@ -27,7 +27,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
-  <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TokLIP is accepted to IJCV, Congrats!</b></li>
+  <!-- <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TokLIP is accepted to IJCV, Congrats!</b></li> -->
   <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TCSVT:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[06/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Two papers are accepted to ECCV'26</b></li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as Silver Reviewer for ICML'26!</li>
@@ -76,7 +76,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
       <br>
-      <i>in International Journal of Computer Vision (<b>IJCV</b>).</i>
+      <!-- <i>in International Journal of Computer Vision (<b>IJCV</b>).</i> -->
+      <i>Preprint.</i>
       <br>
       [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
