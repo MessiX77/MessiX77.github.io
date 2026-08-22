@@ -28,7 +28,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
   <!-- <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TokLIP is accepted to IJCV, Congrats!</b></li> -->
-  <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TCSVT:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TCSVT:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>/<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[06/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);"> Two papers are accepted to ECCV'26</b></li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as Silver Reviewer for ICML'26!</li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICML'26:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
@@ -180,6 +181,41 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       </a>
     </td> -->
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>Efficient Diffusion Language Models: A Comprehensive Survey.</b> 
+      <br>
+      <u>Haokun Lin*#</u>, Xinle Jia*, Shaozhen Liu*, Shujun Xia*, Weitao Huang*, Haobo Xu, Junyang Li, Yicheng Xiao, Xingrun Xing, Ziyu Guo, Renrui Zhang, Qi Li, Yichen Wu, Renzhen Wang, Xiaojuan Qi, Caifeng Shan, Hongsheng Li, Zhenan Sun,
+      <br>
+      <i>in Findings of The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026 Findings</b>).</i>
+      <br>
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
+      [<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">TechXriv</a>]
+      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Github</a>]
+      [<a href="https://mp.weixin.qq.com/s/0k_i1YCVrbps3RAPJMMF_w">Synced/机器之心</a>]
+      [<a href="#" onclick="showBibSurvey()">bibtex</a>]
+      <script>
+        function showBibSurvey() {
+          const bib = `@article{lin2026efficient,\n
+  title={Efficient Diffusion Language Models: A Comprehensive Survey},\n
+  author={Lin, Haokun and Jia, Xinle and Liu, Shaozhen and Xia, Shujun and Huang, Weitao and Xu, Haobo and Li, Junyang and Xiao, Yicheng and Xing, Xingrun and Guo, Ziyu and others},\n
+  journal={Authorea Preprints},\n
+  year={2026}\n
+  publisher={Authorea}\n
+}`;
+          const newWindow = window.open("", "qdlm_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
+
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs.</b> 
       <br>
       <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun,
@@ -199,41 +235,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan},\n
   journal={arXiv preprint arXiv:2508.14896},\n
   year={2025}\n
-}`;
-          const newWindow = window.open("", "qdlm_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-  </tr>
-
-
-  <tr>
-    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <a href="images/.png">
-      <img src='images/.png' width="300">
-      </a>
-    </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>Efficient Diffusion Language Models: A Comprehensive Survey.</b> 
-      <br>
-      <u>Haokun Lin*#</u>, Xinle Jia*, Shaozhen Liu*, Shujun Xia*, Weitao Huang*, Haobo Xu, Junyang Li, Yicheng Xiao, Xingrun Xing, Ziyu Guo, Renrui Zhang, Qi Li, Yichen Wu, Renzhen Wang, Xiaojuan Qi, Caifeng Shan, Hongsheng Li, Zhenan Sun,
-      <br>
-      <i>Preprint.</i>
-      <br>
-      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
-      [<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">TechXriv</a>]
-      [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Github</a>]
-      [<a href="https://mp.weixin.qq.com/s/0k_i1YCVrbps3RAPJMMF_w">Synced/机器之心</a>]
-      [<a href="#" onclick="showBibSurvey()">bibtex</a>]
-      <script>
-        function showBibSurvey() {
-          const bib = `@article{lin2026efficient,\n
-  title={Efficient Diffusion Language Models: A Comprehensive Survey},\n
-  author={Lin, Haokun and Jia, Xinle and Liu, Shaozhen and Xia, Shujun and Huang, Weitao and Xu, Haobo and Li, Junyang and Xiao, Yicheng and Xing, Xingrun and Guo, Ziyu and others},\n
-  journal={Authorea Preprints},\n
-  year={2026}\n
-  publisher={Authorea}\n
 }`;
           const newWindow = window.open("", "qdlm_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
