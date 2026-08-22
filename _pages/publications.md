@@ -159,6 +159,41 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers.</b>
+      <br>
+      Lianwei Yang*, Haisong Gong*, <u>Haokun Lin*</u>, Yichen Wu, Zhenan Sun, Liang Wang, Qingyi Gu,
+      <br>
+      <i>in Machine Intelligence Research, 2026.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2408.03291">PDF</a>]
+      [<a href="https://arxiv.org/abs/2408.03291">arXiv</a>]
+      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="#" onclick="showBibDopq()">bibtex</a>]
+      <script>
+        function showBibDopq() {
+          const bib = `@article{yang2024dopq,\n
+  title={DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers},\n
+  author={Yang, Lianwei and Gong, Haisong and Lin, Haokun and Wu, Yichen and Sun, Zhenan and Gu, Qingyi},\n
+  journal={arXiv preprint arXiv:2408.03291},\n
+  year={2024}\n
+}`;
+          const newWindow = window.open("", "dopq_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.
       </b> 
       <br>
@@ -328,39 +363,6 @@ author_profile: true
     </td> -->
   </tr>
 
-
-  <tr>
-    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers.</b>
-      <br>
-      Lianwei Yang*, Haisong Gong*, <u>Haokun Lin*</u>, Yichen Wu, Zhenan Sun, Liang Wang, Qingyi Gu,
-      <br>
-      <i>in Machine Intelligence Research, 2026.</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2408.03291">PDF</a>]
-      [<a href="https://arxiv.org/abs/2408.03291">arXiv</a>]
-      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
-      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="#" onclick="showBibDopq()">bibtex</a>]
-      <script>
-        function showBibDopq() {
-          const bib = `@article{yang2024dopq,\n
-  title={DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers},\n
-  author={Yang, Lianwei and Gong, Haisong and Lin, Haokun and Wu, Yichen and Sun, Zhenan and Gu, Qingyi},\n
-  journal={arXiv preprint arXiv:2408.03291},\n
-  year={2024}\n
-}`;
-          const newWindow = window.open("", "dopq_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/.png">
-      <img src='/images/.png' width="300">
-      </a>
-    </td> -->
-  </tr>
 
 
   <tr>
