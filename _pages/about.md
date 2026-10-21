@@ -27,6 +27,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
+  <li><strong style="font-family: Consolas;">[10/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization." [<a href="https://github.com/Dreamer-Toby/STEPQuant">Code</a>/<a href="https://arxiv.org/abs/2609.38169">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">Congratulations! TokLIP is finally accepted to IJCV after such a long journey! </b></li>
   <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[07/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TCSVT:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://github.com/yanglianwei/LRQ-DiT">Code</a>/<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
@@ -65,6 +66,42 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ))
 (\*: co-first author;  ^: corresponding author;   #: Project Lead)
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization.</b> 
+      <br>
+      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei
+      <br>
+      <i>Preprint.</i>
+      <a href="https://huggingface.co/papers/2609.38169" target="_blank" style="display:inline-block;margin-left:6px;padding:0 8px;border:1px solid #f0d98a;border-radius:4px;background:#fffbea;color:#8a6d1a;font-size:0.75em;font-weight:500;text-decoration:none;vertical-align:middle;line-height:1.6;">🤗 HuggingFace Daily Paper #3</a>
+      <br>
+      [<a href="https://arxiv.org/pdf/2609.38169">PDF</a>]
+      [<a href="https://arxiv.org/abs/2609.38169">arXiv</a>]
+      [<a href="https://github.com/Dreamer-Toby/STEPQuant">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
+      <!-- [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>]  -->
+      [<a href="#" onclick="showBibTok()">bibtex</a>]
+      <script>
+        function showBibTok() {
+          const bib = `@article{yao2026stepquant,\n
+  title={STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization},\n
+  author={Yao, Bingchen and Xu, Haobo and Lin, Haokun and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Sun, Zhenan and Wei, Ying},\n
+  journal={arXiv preprint arXiv:2609.38169},\n
+  year={2026}\n
+}`;
+          const newWindow = window.open("", "toklip_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
 
   <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
