@@ -96,7 +96,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   journal={arXiv preprint arXiv:2609.38169},\n
   year={2026}\n
 }`;
-          const newWindow = window.open("", "toklip_bibtex");
+          const newWindow = window.open("", "stepquant_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
