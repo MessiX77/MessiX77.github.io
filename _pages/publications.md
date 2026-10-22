@@ -92,6 +92,42 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization.
+      </b> 
+      <br>
+      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2609.38169">PDF</a>]
+      [<a href="https://arxiv.org/abs/2609.38169">arXiv</a>]
+      [<a href="https://github.com/Dreamer-Toby/STEPQuant">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
+      [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>]  -->
+      [<a href="#" onclick="showBibSTEP()">bibtex</a>]
+      <script>
+        function showBibSTEP() {
+          const bib = `@article{yao2026stepquant,\n
+  title={STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization},\n
+  author={Yao, Bingchen and Xu, Haobo and Lin, Haokun and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Sun, Zhenan and Wei, Ying},\n
+  journal={arXiv preprint arXiv:2609.38169},\n
+  year={2026}\n
+}`;
+          const newWindow = window.open("", "stepquant_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.
       </b> 
       <br>

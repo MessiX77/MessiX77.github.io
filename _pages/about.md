@@ -76,7 +76,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization.</b> 
       <br>
-      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei
+      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei,
       <br>
       <i>Preprint.</i>
       <a href="https://huggingface.co/papers/2609.38169" target="_blank" style="display:inline-block;margin-left:6px;padding:0 8px;border:1px solid #f0d98a;border-radius:4px;background:#fffbea;color:#8a6d1a;font-size:0.75em;font-weight:500;text-decoration:none;vertical-align:middle;line-height:1.6;">🤗 HuggingFace Daily Paper #3</a>
@@ -89,7 +89,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <!-- [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>]  -->
       [<a href="#" onclick="showBibTok()">bibtex</a>]
       <script>
-        function showBibTok() {
+        function showBibSTEP() {
           const bib = `@article{yao2026stepquant,\n
   title={STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization},\n
   author={Yao, Bingchen and Xu, Haobo and Lin, Haokun and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Sun, Zhenan and Wei, Ying},\n
