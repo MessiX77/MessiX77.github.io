@@ -87,7 +87,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
       <!-- [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>]  -->
-      [<a href="#" onclick="showBibTok()">bibtex</a>]
+      [<a href="#" onclick="showBibSTEP()">bibtex</a>]
       <script>
         function showBibSTEP() {
           const bib = `@article{yao2026stepquant,\n
