@@ -236,6 +236,39 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b>
+      <br>
+      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
+      <br>
+      <i>in IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>).</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
+      [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>]
+      [<a href="#" onclick="showBibLrq()">bibtex</a>]
+      <script>
+        function showBibLrq() {
+          const bib = `@article{yang2025lrq,\n
+  title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
+  author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
+  journal={arXiv preprint arXiv:2508.03485},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "lrq_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models.</b>
       <br>
       Jingxuan Zhang*, Yunta Hsieh*, Zhongwei Wan, <u>Haokun Lin</u>, Xin Wang, Ziqi Wang, Yingtie Lei, Mi Zhang.
@@ -270,25 +303,25 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b>
+      <b>Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed.
+      </b> 
       <br>
-      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
+       <u>Haokun Lin</u>, Kaijie Zhu, Haobo Xu, Yichen Wu, Zhichao Lu, Qingfu Zhang, Zhenan Sun
       <br>
-      <i>in IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>).</i>
+      <i>in International Joint Conference on Neural Networks 2026 (<b>IJCNN 2026</b>)</i>.
       <br>
-      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
-      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
-      [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>]
-      [<a href="#" onclick="showBibLrq()">bibtex</a>]
+      [<a href="https://arxiv.org/pdf/2608.11981">PDF</a>]
+      [<a href="https://arxiv.org/abs/2608.11981">arXiv</a>]
+      [<a href="#" onclick="showBibIJCNN()">bibtex</a>]
       <script>
-        function showBibLrq() {
-          const bib = `@article{yang2025lrq,\n
-  title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
-  author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
-  journal={arXiv preprint arXiv:2508.03485},\n
-  year={2025}\n
+        function showBibIJCNN() {
+          const bib = `@article{lin2026benchmarking,\n
+  title={Benchmarking trustworthiness of slms: Pre-trained vs. compressed},\n
+  author={Lin, Haokun and Zhu, Kaijie and Xu, Haobo and Wu, Yichen and Lu, Zhichao and Zhang, Qingfu and Sun, Zhenan},\n
+  journal={arXiv preprint arXiv:2608.11981},\n
+  year={2026}\n
 }`;
-          const newWindow = window.open("", "lrq_bibtex");
+          const newWindow = window.open("", "stepquant_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -299,7 +332,6 @@ author_profile: true
       </a>
     </td> -->
   </tr>
-
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">

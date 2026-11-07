@@ -151,7 +151,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu*, Jingzhi Cui, Yingtao Zhang, Linzhan Mou, Linqi Song, Zhenan Sun^, Ying Wei^,
       <br>
-      <i>in 38th Conference on Neural Information Processing Systems (<b>NeurIPS 2024 Oral</b>)</i>. 
+      <i>in 38th Conference on Neural Information Processing Systems (<b>NeurIPS 2024</b>)</i>.
+      <span style="display:inline-block;margin-left:6px;padding:0 8px;border:1px solid #f0d98a;border-radius:4px;background:#fffbea;color:#8a6d1a;font-size:0.75em;font-weight:500;text-decoration:none;vertical-align:middle;line-height:1.6;">Oral Presentation, Acceptance Rate ~0.4%</span>
       <br>
       [<a href="https://arxiv.org/pdf/2406.01721">PDF</a>]
       [<a href="https://arxiv.org/pdf/2406.01721">arXiv</a>]
@@ -573,6 +574,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 # 🎖 Services
 - Invited Reviewer:
+  - AAAI'2027, ICLR'2027, AISTATS'2027, ACL'2025 Oct ARR.
   - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026, ECCV'2026.
   - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
   - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
