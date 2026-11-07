@@ -95,7 +95,7 @@ author_profile: true
       <b>STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization.
       </b> 
       <br>
-      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei,
+      Bingchen Yao*, Haobo Xu*, <u>Haokun Lin#^</u>, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei^,
       <br>
       <i>Preprint.</i>
       <br>
