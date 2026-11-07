@@ -152,7 +152,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu*, Jingzhi Cui, Yingtao Zhang, Linzhan Mou, Linqi Song, Zhenan Sun^, Ying Wei^,
       <br>
       <i>in 38th Conference on Neural Information Processing Systems (<b>NeurIPS 2024</b>)</i>.
-      <span style="display:inline-block;margin-left:6px;padding:0 8px;border:1px solid #f0d98a;border-radius:4px;background:#fffbea;color:#8a6d1a;font-size:0.75em;font-weight:500;text-decoration:none;vertical-align:middle;line-height:1.6;">Oral Presentation, Acceptance Rate ~0.4%</span>
+      <span style="display:inline-block;margin-left:6px;padding:0 8px;border:1px solid #d8c4f0;border-radius:4px;background:#f5efff;color:#7350a2;font-size:0.75em;font-weight:500;text-decoration:none;vertical-align:middle;line-height:1.6;">Oral Presentation, Acceptance Rate ~0.4%</span>
       <br>
       [<a href="https://arxiv.org/pdf/2406.01721">PDF</a>]
       [<a href="https://arxiv.org/pdf/2406.01721">arXiv</a>]
