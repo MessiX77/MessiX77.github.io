@@ -594,7 +594,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 
 # 💬 Talks
-- Invited talk at the QingKe AI about [DuQuant](https://hcqnc.xetlk.com/sl/2pnEgg).
+- Invited talk at the QingKe AI about [STEPQuant](https://qingkeai.online/blog/STEPQuant)
+- Invited talk at the QingKe AI about [DuQuant](https://qingkeai.online/blog/UbktbTc7).
 - Invited talk at the AI Time.
 
 --------
